@@ -16,5 +16,22 @@
 - Javascript
 - handlebars (Template Engine)
 - Node
-- Git Bash
-- Sql
+- SqlLite
+
+## Como utilizar ?
+```
+- Clone esse repositório:
+$ git clone https://github.com/SentlySS/Happy Happy
+
+- Entre no diretório:
+$ cd Happy
+
+- Instale as dependências:
+$ npm install
+
+- Execute:
+$ npm start
+
+- Abra seu navegador em:
+http://localhost:5500/
+```
